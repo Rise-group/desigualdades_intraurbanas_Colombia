@@ -1,15 +1,15 @@
 <pre>
 <p float="left">
-<img src="figs/PEAKurban.png" alt="PEAK Urban logo" align="left" width="250"/>
-<img src="figs/logo_rise_eafit.png" alt="RiSE-group logo" align="left" width="300"/>   <span style="padding-left:20px">                
-<img src="figs/WB_logo.png" alt="World Bank logo" align="left"  width="250"/>         
+<img src="figs/PEAKurban.png" alt="PEAK Urban logo" align="left" width="240"/>
+<img src="figs/logo_rise_eafit.png" alt="RiSE-group logo" align="left" width="290"/>               
+<img src="figs/WB_logo.png" alt="World Bank logo" align="left"  width="240"/>         
 </p>
 </pre>
 
 # Las desigualdades intraurbanas en Colombia.
 
 
-Juan C. Duque<sup>1</sup>, Nancy Lozano-Gracia<sup>2</sup>, Mauricip Quiñones, Gustavo A. García, Juan P. Ospina, Jorge E. Patino<sup>1</sup>, Kelly Y. Montoya
+Juan C. Duque<sup>1</sup>, Nancy Lozano-Garcia<sup>2</sup>, Mauricio Quiñones, Gustavo A. García, Juan P. Ospina, Jorge E. Patino<sup>1</sup>, Kelly Y. Montoya
 
 
 <sup>1</sup> RiSE-group, Department of Mathematical Sciences, Universidad EAFIT, Medellin, Colombia
