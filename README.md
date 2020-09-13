@@ -1,6 +1,6 @@
 <pre>
 <p float="left">
-<img src="figs/PEAKurban.png" alt="PEAK Urban logo" align="left" width="240"/>
+<img src="figs/PEAKurban.png" alt="PEAK Urban logo" align="left" width="200"/>
 <img src="figs/logo_rise_eafit.png" alt="RiSE-group logo" align="left" width="290"/>               
 <img src="figs/WB_logo.png" alt="World Bank logo" align="left"  width="240"/>         
 </p>
