@@ -1,7 +1,7 @@
 # Datos geográficos
 
 ## Descripción y fuente de los datos
-Shapefiles de municipios y manzanas censales obtenidos de la versión 2018 del Marco Geoestadístico Nacional del DANE (niveles geográficos Municipio y Manzana Censal respectivamente). 
+Shapefiles de municipios y manzanas censales, así como de centros de servicio (amenities) obtenidos de la versión 2018 del Marco Geoestadístico Nacional del DANE (niveles geográficos Municipio y Manzana Censal respectivamente y capa de datos de toponimia). 
 
 URL:
 https://geoportal.dane.gov.co/servicios/descarga-y-metadatos/descarga-mgn-marco-geoestadistico-nacional/
@@ -22,7 +22,15 @@ Los polígonos de municipios se procesaron con la librería `rmapshaper` en R pa
 Conjuntos de geodatos en formato shapefile (e identificadores únicos) para unir con los datos tabulares (arhivos comprimidos en formato zip):
 - MANZANAS_COL (MANZ_CCNCT)
 - MUNICIPIOS_COL (MPIO_CCNCT)
-- REGIONES_COL (REG_CCDG)
+- REGIONES_COL (REG_CCDG)  
+- WB_Amenities_EDUCATION  
+- WB_Amenities_HEALTH  
+- WB_Amenities_SPORT  
+
+## Atributos de geodatos de centros de servicio (amenities):
+Descripción de los atributos de los shapefiles que contienen los centros de servicio:
+- ID_Amenity: Código único utilizado para identificar el registro.  
+- CSIMBOL: Identificador de la categoría del sitio según DANE.  
 
 ## Sistema de referencia de coordenadas - SRC:
 El sistema de referencia de coordenadas (src) de estos conjuntos de datos es WGS 1984, EPSG:4326.
