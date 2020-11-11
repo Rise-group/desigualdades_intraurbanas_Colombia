@@ -4,7 +4,7 @@
 Tablas con datos del Censo Nacional 2018 DANE, asociados a manzanas urbanas, municipios y regiones. Datos procesados desde los microdatos del censo 2018. Grupo RiSE y Banco Mundial, Desigualdades intraurbanas en Colombia, 2020.
 
 ## Nombres de archivos
-Conjuntos de datos en formato de texto delimitado (.txt).
+Conjuntos de datos en formato de texto delimitado (.txt) o MS Excel (.xlsx).
 
 ### Manzanas
 - `accesibilidad_manz.txt`: datos de indicador de accesibilidad y distancias promedio a centros de servicios (salud, deporte y educación).  
@@ -13,6 +13,7 @@ Conjuntos de datos en formato de texto delimitado (.txt).
 - `nbi_manz.txt`: indicadores de necesidades básicas insatisfechas.  
 - `personas_manz.txt`: indicadores de variables del censo calculados para personas.  
 - `viviendas_manz.txt`: indicadores de variables del censo calculados para viviendas.  
+- `dimensiones_clusters.xlsx`: resultados de asignación de manzanas urbanas a clusters (grupos) según su similaridad en los indicadores de vulnerabilidad.
 
 ### Municipios
 - `distancias_servicios_mpio.txt`: indicadores de distancias promedio a centros de servicio (salud, deporte y educación).  
